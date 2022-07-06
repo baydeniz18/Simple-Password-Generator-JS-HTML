@@ -1,0 +1,29 @@
+#headline {
+  text-align: start;
+  padding: 10px;
+  
+}
+
+#logo {
+
+  text-align: center;
+}
+
+#points {
+  
+  width: 50%;
+  height:75%;
+  
+
+}
+
+#newpass{
+  padding: 5px 5px;
+}
+
+#pass{
+
+  text-align: start;
+  align-items: center;
+  padding: 5px 5px;
+}
